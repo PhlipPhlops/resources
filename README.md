@@ -15,6 +15,10 @@
   - [Quickstart with DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)
 - [ChaosMonkey by Netflix](https://github.com/Netflix/chaosmonkey)
 
+## Design
+- [Coolors](https://coolors.co/)
+- [uiGradients](https://uigradients.com/)
+
 ## Companies Open Source projects
 - [Airbnb.io](https://github.com/airbnb/aerosolve)
 - [Jigsaw by Google](https://jigsaw.google.com/)
