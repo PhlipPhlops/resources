@@ -26,3 +26,6 @@
 ## Desktop Necessities
 - [ShareX](https://getsharex.com/)
 - [F.lux](https://justgetflux.com/)
+
+## Tips & Tricks
+- [Git Tips&Tricks (Courtesy of the CIA)](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
