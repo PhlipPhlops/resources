@@ -22,3 +22,7 @@
 ## Companies Open Source projects
 - [Airbnb.io](https://github.com/airbnb/aerosolve)
 - [Jigsaw by Google](https://jigsaw.google.com/)
+
+## Desktop Necessities
+- [ShareX](https://getsharex.com/)
+- [F.lux](https://justgetflux.com/)
