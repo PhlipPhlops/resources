@@ -18,6 +18,7 @@
 ## Design
 - [Coolors](https://coolors.co/): Random color palettes.
 - [uiGradients](https://uigradients.com/): Random UI gradients.
+- [HTML5 UP](https://html5up.net/): Open source website templates!
 
 ## Companies Open Source projects
 - [Airbnb.io](https://github.com/airbnb/aerosolve)
