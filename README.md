@@ -25,6 +25,7 @@
 - [Jigsaw by Google](https://jigsaw.google.com/)
 
 ## Desktop Necessities
+- [CloudApp](https://www.getcloudapp.com/): Take screenshots and record GIFs and get URLs for easy sharing.
 - [ShareX](https://getsharex.com/): Similar to CloudApp. Windows only.
 - [F.lux](https://justgetflux.com/): Makes the color of your computer's display adapt to the time of day.
 
