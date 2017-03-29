@@ -15,6 +15,10 @@
   - [Quickstart with DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)
 - [ChaosMonkey by Netflix](https://github.com/Netflix/chaosmonkey): Technical programmatic disruptor.
 
+## NetSec
+- [OWASP](https://www.owasp.org/index.php/Main_Page): Archive of Network Security Tools
+- [WebGoat](https://github.com/WebGoat/WebGoat): Network Security Testing Suite
+
 ## Design
 - [Coolors](https://coolors.co/): Random color palettes.
 - [uiGradients](https://uigradients.com/): Random UI gradients.
